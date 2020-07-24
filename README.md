@@ -1,4 +1,4 @@
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
 
 # A Motor Imagery based Brain Computer Interface to restore upper limb movements
 This is a group project written during our acedemic years of a master degree in ICT. 
@@ -32,3 +32,6 @@ Approach for the non-invasive BCI:
 Approach for the invasive BCI:
 >![non-inv-1](img/2.PNG)</br>
 >Representation of the intrusive system (figure adapted from [41]), on the right; the Proprioceptive feedback problem adressed for the invasive system, on the left (figure modified from [42]).  
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
