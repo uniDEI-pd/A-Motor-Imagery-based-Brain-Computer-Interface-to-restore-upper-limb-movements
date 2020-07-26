@@ -1,7 +1,7 @@
 
 
 # A Motor Imagery based Brain Computer Interface to restore upper limb movements
-This is a group project written during our acedemic years of a master degree in ICT. 
+This is a group project written during our acedemic years of a Master's Degree in ICT. 
 </br></br>
 **Abstraxt**
 >Spinal Cord Injury (SCI) is a condition that
